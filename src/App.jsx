@@ -18,7 +18,7 @@ function App() {
       <div >
         <h1 data-tooltip-id="my-tooltip-2"> Tooltip2</h1>
         <Tooltip tooltipId="my-tooltip-2" tooltipContent="This is 2nd tooltip!"
-      placement="bottom" />
+      placement="right" />
         </div>
 
       
